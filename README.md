@@ -10,4 +10,4 @@ https://brain-tumor-app.onrender.com/
 
 here is the repository for the web app :
 
-github.com/JobeeeAID/Brain-Tumor-Web-App
+https://github.com/JobeeeAID/Brain-Tumor-Web-App
